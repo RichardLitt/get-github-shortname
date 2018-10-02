@@ -8,6 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RichardLitt/get-github-shortname.git"
-  }
+    "url": "git+https://github.com/danielcber/get-github-shortname.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielcber/get-github-shortname/issues"
+  },
+  "homepage": "https://github.com/danielcber/get-github-shortname#readme"
 }
