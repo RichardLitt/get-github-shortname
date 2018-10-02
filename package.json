@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/danielcber/get-github-shortname.git"
   },
-  "author": "",
+  "author": "Richard Littauer <richard.littauer@gmail.com> (http://burntfen.com)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/danielcber/get-github-shortname/issues"
