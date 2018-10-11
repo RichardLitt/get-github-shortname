@@ -1,0 +1,19 @@
+{
+  "name": "get-github-shortname",
+  "version": "1.0.0",
+  "description": "Get Github Shortname",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RichardLitt/get-github-shortname.git"
+  },
+  "author": "Richard Littauer <richard.littauer@gmail.com> (http://burntfen.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RichardLitt/get-github-shortname/issues"
+  },
+  "homepage": "https://github.com/RichardLitt/get-github-shortname"
+}
