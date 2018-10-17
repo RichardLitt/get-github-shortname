@@ -5,10 +5,10 @@
 A shortcut to getting a Github repository's name using [git-remote-upstream-url](https://www.npmjs.com/package/git-remote-upstream-url) and [git-remote-origin-url](https://www.npmjs.com/package/git-remote-origin-url).
 
 ## Table of Contents
-* [Install](https://github.com/RichardLitt/get-github-shortname#install)
-* [Usage](https://github.com/RichardLitt/get-github-shortname#usage)
-* [Contribute](https://github.com/RichardLitt/get-github-shortname#contribute)
-* [License](https://github.com/RichardLitt/get-github-shortname#license)
+* [Install](#install)
+* [Usage](#usage)
+* [Contribute](#contribute)
+* [License](#license)
 
 ## Install
 TODO
