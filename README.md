@@ -22,4 +22,4 @@ Feel free to dive in! Open an [issue](https://github.com/RichardLitt/get-github-
 Get Github Shortname follows the [Contributor Covenant Code of Conduct](http://contributor-covenant.org/version/1/3/0/).
 
 ## License
-[MIT](https://github.com/RichardLitt/get-github-shortname/blob/master/LICENSE.md) © 2018 Richard Littauer
+[MIT](LICENSE.md) © 2018 Richard Littauer
